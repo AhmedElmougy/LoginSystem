@@ -1,0 +1,2 @@
+# LoginSystem
+ Login system using keypad to enter password and display pressed key on LCD upon entering a wrong password a corresponding wrong password messege will be displayed on LCD  when correct password entered a corresponding logged in messege will be displayed on LCD and a indicator LED will be open and a motor that control the door will open for 5 seconds and then will be closed again and system will reset again ready for a new login  
